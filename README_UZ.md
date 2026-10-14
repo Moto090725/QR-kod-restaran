@@ -57,3 +57,4 @@ Bu tayyor ishlaydigan demo/boshlang‘ich loyiha. Haqiqiy restoran uchun interne
 - Barcha stollar uchun bitta QR-kod ishlatiladi. QR menyuni ochadi, stol raqami buyurtma berishdan oldin tanlanadi.
 - Admin paneldagi **Taomlar** bo‘limida rasm maydonidan kompyuterdagi rasm faylini tanlang. URL kiritish shart emas.
 - Lokal `127.0.0.1` QR-kodi boshqa telefonlarda ishlamaydi. Boshqa telefonlardan foydalanish uchun saytni internetga joylashtirib, `SITE_URL` ni ommaviy manzilga sozlang.
+Andijon restoran QR buyurtma tizimi
